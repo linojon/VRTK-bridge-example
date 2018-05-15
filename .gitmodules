@@ -1,0 +1,3 @@
+[submodule "Assets/BridgeXR"]
+	path = Assets/BridgeXR
+	url = https://github.com/linojon/BridgeXR.git
