@@ -1,21 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76075598942a49a4a9020158215467b7, type: 3}
-  m_Name: VRTK-Scene-Changer
-  m_EditorClassIdentifier: 
-  defaultValue: 
-  keys:
-  - {fileID: 11400000, guid: 68aa7f5b595abbd4f9f683a037d9df84, type: 2}
-  values:
-  - ed35d5307d75f304c8517028484ecf02
-  stringValue: 
-  description: '[ExampleSceneScripts]'
-  objectValue: {fileID: 0}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f234296b9cd8b661a7a9544cc311842f2fa0314021ad85d8a01bd68c43765c3f
+size 597

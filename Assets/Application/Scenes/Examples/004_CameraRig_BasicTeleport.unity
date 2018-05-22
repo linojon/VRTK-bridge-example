@@ -240,11 +240,31 @@ Prefab:
     - target: {fileID: 114175952576244786, guid: 8ec2f0a699f8e454686a9e5d3807c6f9,
         type: 2}
       propertyPath: ScenePath
-      value: Assets/Application/Scenes/PlayerRig/BasicTeleport-PlayerRig.unity
+      value: Assets/Application/Scenes/VRTK/PlayerRig/BasicTeleport-PlayerRig.unity
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8ec2f0a699f8e454686a9e5d3807c6f9, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &80174043 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1053619800892192, guid: 8ec2f0a699f8e454686a9e5d3807c6f9,
+    type: 2}
+  m_PrefabInternal: {fileID: 80174042}
+--- !u!114 &80174044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 80174043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc0c7b1cacd7fd846b6827e9305eef90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BridgeIdentifier: {fileID: 11400000, guid: 64b87ee6067bc0f40861f933dce4aac1, type: 2}
+  ScenePath: Assets/Application/Scenes/Daydream/PlayerRig-Daydream-Teleport.unity
+  LoadOnStart: 1
+  MergeWithActive: 1
 --- !u!1 &98616927
 GameObject:
   m_ObjectHideFlags: 0

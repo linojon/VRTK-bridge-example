@@ -3,7 +3,7 @@
     using UnityEngine;
     using UnityEventHelper;
 
-    public class ButtonReactor : MonoBehaviour
+    public partial class ButtonReactor : MonoBehaviour
     {
         public GameObject go;
         public Transform dispenseLocation;
