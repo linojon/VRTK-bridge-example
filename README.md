@@ -14,7 +14,7 @@
 > The project requires no code samples. <a href="shorturl.at/iqBGU"><b>BridgeXR</b></a> works with the Unity Editor so you don't have to worry about writing any code.
 
 > In this project we use the <a href="shorturl.at/uyHSW"><b>Daydream Elements</b></a> examples to replace the VRTK interactions on Daydream. 
->><i>Keep in mind that if an SDK example does not contain a similar behaviours to a VRTK behaviour, you will will have to write your own code. Ultimately we expect users to completely replace VRTK with their own code so that it is not coupled to an SDK.</i>
+>><i>Keep in mind that if an SDK example does not contain a similar behaviour to a VRTK behaviour, you will will have to write your own code. Ultimately we expect users to completely replace VRTK with their own code so that it is not coupled to an SDK.</i>
 
 ## Installation
 
